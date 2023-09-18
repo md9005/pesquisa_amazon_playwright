@@ -1,2 +1,2 @@
-# pesquisa_amanazon_playwright
+# pesquisa_amazon_playwright
 Testes automatizados front end  com playwright 
